@@ -11,3 +11,5 @@ furl==2.1.0
 pytest-asyncio==0.10.0
 autopep8
 types-python-dateutil
+azure-functions-durable
+azure.durable_functions
